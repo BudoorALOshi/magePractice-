@@ -1,0 +1,15 @@
+project/.htaccess
+project/app/etc/local.xml
+project/cron.php
+project/cron.sh
+project/downloader
+project/errors/
+project/includes
+project/index.php
+project/index.php.sample
+project/install.php
+project/LICENSE*
+project/media magento/php.ini.sample
+project/RELEASE_NOTES.txt
+project/robots.txt
+project/var
