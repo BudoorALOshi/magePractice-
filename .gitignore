@@ -9,7 +9,8 @@ project/index.php
 project/index.php.sample
 project/install.php
 project/LICENSE*
-project/media magento/php.ini.sample
+project/media 
+project/php.ini.sample
 project/RELEASE_NOTES.txt
 project/robots.txt
 project/var
